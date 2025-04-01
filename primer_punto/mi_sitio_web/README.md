@@ -1,6 +1,8 @@
 
-PRIMERA PARTE DEL PARCIAL   
-primero mkdir mi_sitio_web para crear la carpeta principal 
+PRIMERA PARTE DEL PARCIAL  
+primero mkdir primer_punto
+luego cd primer_punto 
+luego mkdir mi_sitio_web para crear la carpeta principal 
 luego cd mi_sitio_web para acceder a la carpeta
 luego touch index.html para crear el documento html que este contiene todo el codigo html que va a contener nuestra pagina 
 luego mkdir css para crear la subcarpeta que va a contener los estilos de nuestra pagina web
